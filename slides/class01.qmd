@@ -1,0 +1,13 @@
+---
+title: "R language"
+subtitle: "Introduction to the course"
+author: "Marcel Ferreira @marceelrf"
+format: revealjs
+editor: visual
+---
+
+## About the author
+
+## About this course
+
+## R language
