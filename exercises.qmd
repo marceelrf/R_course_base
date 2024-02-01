@@ -5,7 +5,7 @@ format: html
 editor: visual
 ---
 
-## Chapter 1 - R intro
+## Chapter 1 - Intro to R language
 
 ### Easy
 
