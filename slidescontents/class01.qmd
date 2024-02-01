@@ -11,3 +11,5 @@ editor: visual
 ## About this course
 
 ## R language
+
+## RStudio

@@ -11,3 +11,19 @@ editor: visual
 ## About this course
 
 ## R language
+
+## RStudio
+
+::: columns
+::: {.column width="50%"}
+-   Integrated development environment (IDE);
+
+-   Free;
+
+-   [Download](https://posit.co/downloads/)
+:::
+
+::: {.column width="50%"}
+[![Posit](https://posit.co/wp-content/themes/Posit/dist/images/site-share-image.jpg){fig-align="center"}](https://posit.co/#)
+:::
+:::
