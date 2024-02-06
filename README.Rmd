@@ -11,18 +11,33 @@ knitr::opts_chunk$set(
 )
 ```
 
-# R_course_base
+# R course base
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of `R_course_base` is to ...
 
+## Who is this course for?
+
+People who need or want to learn the R language to develop data analysis in a wide range of areas. As a daily user of R for a decade, I've witnessed many colleagues starting out without any support and having to scramble to achieve the results expected by their superiors/tutors.Based on these experiences, I designed this course to give you the foundation you need to become language independent.Please understand, this doesn't mean that once you've finished the course you'll never make another mistake. I make mistakes every day and several times. But it does mean that the student will understand the source of the error, most of the time correct it and the rest of the time be able to search for appropriate support. Although I'm going to present a lot of theory about language, the idea is to bring this into analysis practice in order to accelerate the student's development. By the end you will be able to solve problems in the data area using R and ready for the next steps in this and other languages.
 
 ## Topics
 
 1. Intro to R language;
+  - What is R language?
+  - Where to code (IDE)?
+  - Packages;
+  - Find help;
+  - Versions;
+  
 2. R objects & classes;
+- Atomics;
+- Type of;
+- NA;
+- Coercion;
+- Basic operators;
+- Math and Logicals;
+
 3. Vectors;
 4. Matrix;
 5. Data.frames;
