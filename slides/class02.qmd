@@ -1,0 +1,11 @@
+---
+title: "R objects & classes"
+subtitle: "Chapter 2"
+author: "Marcel Ferreira"
+format: revealjs
+editor: visual
+---
+
+## About the author
+
+## About this course

@@ -1,6 +1,6 @@
 ---
-title: "R language"
-subtitle: "Introduction to the course"
+title: "Introduction to R language"
+subtitle: "Chapter 1"
 author: "Marcel Ferreira @marceelrf"
 format: revealjs
 editor: visual
