@@ -7,9 +7,22 @@ Marcel, Icaro, [....], Erick
 
 ## Methods
 
+### Data
+- SABE
+- 1KGen (?)
+
+### Preprocessing
+- Only Y values
+- Use the heterozygousis information
+    - Use the embed package
+
 ### ML algorithms
 - GMM
 - Bayesian GMM
+- kmeans
+- DBSCAN
+
+### Benchmark
 
 ## Results
 
