@@ -12,3 +12,57 @@ editor: visual
 ---
 
 ## Data in R
+
+::: incremental
+-   "What is your **name**?"
+
+-   "What is your **age**?"
+
+-   "What is your **height**?"
+
+-   "Is it **rainy** today"?
+
+-   "What day is it **today**"?
+
+-   "What time is it **now**"?
+:::
+
+## Data in R {auto-animate="true"}
+
+-   "What is your **name**?" = `"Marcel Ferreira"`
+
+-   "What is your **age**?" = `32`
+
+-   "What is your **height**?" = `1.83` m
+
+-   "Is it **rainy** today"? = Yes **or** No = `TRUE` **or** `FALSE`
+
+-   "What day is it **today**"? `"2024-02-16"`
+
+-   "What time is it **now**"? `"2024-02-16 11:45:33 -03"`
+
+## R objects {auto-animate="true"}
+
+::: incremental
+-   `vectors`;
+
+-   `matrix`;
+
+-   `dataframe`;
+
+-   `list`;
+
+-   More sophisticated as `arrays` or `S4`;
+:::
+
+## R objects {auto-animate="true"}
+
+-   `vectors` = **1D** objects with a **single** atomic class;
+
+-   `matrix` = **2D** objects with a **single** atomic class;
+
+-   `dataframe` = **2D** objects with one atomic class per column;
+
+-   `list` = **1D** with ANY R object in **each element**;
+
+## Atomic data
