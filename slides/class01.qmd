@@ -1,0 +1,94 @@
+---
+title: "Introduction to R language"
+subtitle: "Chapter 1"
+author: "Marcel Ferreira"
+format: 
+  revealjs:
+    theme: serif
+    footer: "@marceelrf"
+    logo: imagem1.png
+    css: slides.css
+editor: visual
+---
+
+## About this course
+
+-   **New** users
+
+-   No prior programming knowledge **necessary**
+
+-   **Ten** chapters
+
+-   **Fundamentals** of language
+
+-   Focus on the **base**, not on frameworks
+
+## About this course
+
+-   At the **end** of this course, you will be able to carry out your analyses
+
+-   
+
+## About the author
+
+-   Daily user for almost a **decade**
+
+-   **Bioinformatics** and **Biophysics** analysis
+
+-   I have **collaborated** on more than 50 academic projects using R
+
+-   **Contributed** to more than 25 scientific articles
+
+## About the author
+
+## R language
+
+-   **Open source**
+
+-   **Free**
+
+-   **Data analysis**
+
+-   **Statistical** and **visualization** tools
+
+-   Large and engaged **community**
+
+## R language - install
+
+-   The Comprehensive R Archive Network (CRAN): <https://cran.r-project.org/>
+
+-   Windows, Linux or macOS
+
+![Install R](images/install.png){width="453"}
+
+## R language - install
+
+-   The Comprehensive R Archive Network (CRAN): <https://cran.r-project.org/>
+
+-   Windows, Linux or macOS
+
+![Install R](images/install2.png)
+
+## R language - install
+
+-   The Comprehensive R Archive Network (CRAN): <https://cran.r-project.org/>
+
+-   Windows, Linux or macOS
+
+![Install R](images/install3-01.png)
+
+## RStudio
+
+::: columns
+::: {.column width="50%"}
+-   Integrated development environment (IDE);
+
+-   Free;
+
+-   [Download](https://posit.co/downloads/)
+:::
+
+::: {.column width="50%"}
+[![Posit](https://posit.co/wp-content/themes/Posit/dist/images/site-share-image.jpg){fig-align="center"}](https://posit.co/#)
+:::
+:::

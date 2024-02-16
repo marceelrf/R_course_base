@@ -1,0 +1,14 @@
+---
+title: "R objects & classes"
+subtitle: "Chapter 2"
+author: "Marcel Ferreira"
+format: 
+  revealjs:
+    theme: serif
+    footer: "@marceelrf"
+    logo: imagem1.png
+    css: slides.css
+editor: visual
+---
+
+## Data in R
